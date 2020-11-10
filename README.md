@@ -3,4 +3,4 @@ Este repositorio alberga código útil para hacer web scrapping en la página we
 
 El código aquí presente fue completamente escrito y subido desde un dispositivo Android, utilizando [Termux](https://termux.com/), Python y git, y eso es lo más interesante lejos del código que en realidad es muy sencillo y didáctico.
 
-La crónica del nacimiento de este repositorio se encuentra en Youtube, en cuanto se suba el video compartiré aquí el enlace :) .
+La crónica del nacimiento de este repositorio se encuentra en Youtube, en cuanto se suba el video compartiré [aquí](https://youtu.be/VAYsMyKsP88) el enlace :) .
